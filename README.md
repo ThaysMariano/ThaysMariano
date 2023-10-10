@@ -1,7 +1,8 @@
 ### Olá 👋
 - 🌱 Iniciante
 - 👀 Curiosidade na área
-- 💻 ADS 
+- 💻 ADS
+- Aprendendo a usar o site
 
 
 
