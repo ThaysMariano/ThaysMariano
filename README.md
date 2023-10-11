@@ -2,7 +2,6 @@
 - 🌱 Iniciante
 - 👀 Curiosidade na área
 - 💻 ADS (Pretendo)
-- Aprendendo a usar o site
 
 
 
