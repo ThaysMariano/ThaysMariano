@@ -1,6 +1,5 @@
 ### Olá 👋
 - 🌱 Iniciante
-- 👀 Curiosidade na área
 - 💻 ADS (IFSC)
 
 
