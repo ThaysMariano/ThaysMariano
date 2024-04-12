@@ -1,7 +1,7 @@
 ### Olá 👋
 - 🌱 Iniciante
 - 👀 Curiosidade na área
-- 💻 ADS (Pretendo)
+- 💻 ADS (IFSC)
 
 
 
