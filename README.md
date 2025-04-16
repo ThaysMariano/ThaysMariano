@@ -4,7 +4,6 @@
 ### Estudando:
 - ☕ Java
 - 🟡 JavaScript
-- 🖥️ VHDL
 
 
 
