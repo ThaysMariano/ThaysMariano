@@ -1,19 +1,46 @@
-
----
 ![header-image](./header.png)
-- 💻 Cursando Análise e Desenvolvimento de Sistemas no IFSC/SJ
-- 🔎 Curiosidade em Eletrônica - Atualmente mexendo com Arduino!
-- ⚛️ Estudando React
 
----
-[![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,java,mysql)](https://skillicons.dev)
-
-[![My Skills](https://skillicons.dev/icons?i=git,github,docker,idea,vscode)](https://skillicons.dev)
+## 👩‍💻 Sobre Mim
+🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFSC/SJ  
+⚡ Entusiasta de **Eletrônica** – atualmente explorando **Arduino**!   
+🖥️ Estudando **Sistemas Operacionais** e **Desenvolvimento Backend** 
 
 
 
- <img align-items="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaysMariano&layout=compact&theme=react&hide_border=true" width="325" />
-</a>
 
 
+## ⚙️ Skills
+
+### 💻 Linguagens & Techs
+
+[![HTML](https://skillicons.dev/icons?i=html)](https://developer.mozilla.org/en-US/docs/Web/HTML)
+[![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
+[![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
+[![React](https://skillicons.dev/icons?i=react)](https://pt-br.legacy.reactjs.org/)
+[![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
+
+### 🛠️ Ferramentas & Plataformas
+
+[![Git](https://skillicons.dev/icons?i=git)](https://git-scm.com/)
+[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/)
+[![Figma](https://skillicons.dev/icons?i=figma)](https://www.figma.com/)
+[![Docker](https://skillicons.dev/icons?i=docker)](https://www.docker.com/)
+[![IntelliJ](https://skillicons.dev/icons?i=idea)](https://www.jetbrains.com/idea/)
+[![VSCode](https://skillicons.dev/icons?i=vscode)](https://code.visualstudio.com/)
+[![Arduino](https://skillicons.dev/icons?i=arduino)](https://www.arduino.cc/)
+
+
+
+
+
+## 📊 Estatísticas
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaysMariano&layout=compact&theme=react&hide_border=true&title_color=3B8FF5" width="400" />
+
+
+
+
+## 📫 Contato
+<a href="https://www.linkedin.com/in/thays-mariano-8711b4323/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>  <a href = "mailto:thaysdasilvamariano@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a> 
 
