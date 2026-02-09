@@ -17,8 +17,8 @@
 [![CSS](https://skillicons.dev/icons?i=css)](https://developer.mozilla.org/en-US/docs/Web/CSS)
 [![JavaScript](https://skillicons.dev/icons?i=js)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![TypeScript](https://skillicons.dev/icons?i=ts)](https://www.typescriptlang.org/)
-[![React](https://skillicons.dev/icons?i=react)](https://pt-br.legacy.reactjs.org/)
 [![Java](https://skillicons.dev/icons?i=java)](https://www.java.com/)
+[![React](https://skillicons.dev/icons?i=react)](https://pt-br.legacy.reactjs.org/)
 [![MySQL](https://skillicons.dev/icons?i=mysql)](https://www.mysql.com/)
 
 ### 🛠️ Ferramentas & Plataformas
@@ -33,10 +33,6 @@
 
 
 
-
-
-## 📊 Estatísticas
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ThaysMariano&layout=compact&theme=react&hide_border=true&title_color=3B8FF5" width="400" />
 
 
 
