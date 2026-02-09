@@ -3,7 +3,7 @@
 ## 👩‍💻 Sobre Mim
 🎓 Cursando **Análise e Desenvolvimento de Sistemas** no IFSC/SJ  
 ⚡ Entusiasta de **Eletrônica** – atualmente explorando **Arduino**!   
-🖥️ Estudando **Sistemas Operacionais** e **Desenvolvimento Backend** 
+🖥️ Estudando **Aprendizado de Máquina**, **Serviços em Nuvem** e **Dispositivos Móveis**
 
 
 
